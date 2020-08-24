@@ -25,3 +25,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1>I’m currently working on</h1>
+<a href="www.lasaludesmia.com" target="_blank">La Salud es MIA</a>
+</br>
+<a href="www.lasaludesmia.com" target="_blank">GenommaLab</a>
+
+<h2>Projects I have worked on</h2>
+<a href="www.apismx.com" target="_blank">ApisMX</a>
+</br>
+<a href="www.buscarvan.com" target="_blank">BuscarVan</a>
+</br>
+<a href="www.buscarvan.com" target="_blank">Impact Factor</a>
+
+
+
