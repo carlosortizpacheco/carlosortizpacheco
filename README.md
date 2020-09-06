@@ -11,32 +11,21 @@
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="50" height="50" />
 </p>
 
-<!--
-**carlosortizpacheco/carlosortizpacheco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1>I’m currently working on</h1>
 <a href="www.lasaludesmia.com" target="_blank">La Salud es MIA</a>
 </br>
-<a href="www.lasaludesmia.com" target="_blank">GenommaLab</a>
+<a href="https://www.genommalab.com/int/en/" target="_blank">GenommaLab</a>
 
 <h2>Projects I have worked on</h2>
-<a href="www.apismx.com" target="_blank">ApisMX</a>
-
+<div align="center">
+  <a href="www.apismx.com" target="_blank">ApisMX</a>
+  <img src=https://ch0k0-shared-resoures.s3.amazonaws.com/icons/apismxlogo36px.png alt=apismx_logo width="2%"/> 
+</div>
 </br>
-<a href="www.buscarvan.com" target="_blank">BuscarVan</a>
-<img src=https://ch0k0-shared-resoures.s3.amazonaws.com/icons/apismxlogo36px.png alt=apismx_logo width="50" height="50"/> 
+<div>
+  <a href="www.buscarvan.com" target="_blank">BuscarVan</a>
+  <img src=https://ch0k0-shared-resoures.s3.amazonaws.com/icons/buscarVanlogo.png alt=apismx_logo width="5%"/> 
+</div>
 </br>
 <a href="www.buscarvan.com" target="_blank">Impact Factor</a>
 
