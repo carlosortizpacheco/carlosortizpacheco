@@ -17,7 +17,7 @@
 <a href="https://www.genommalab.com/int/en/" target="_blank">GenommaLab</a>
 
 <h2>Projects I have worked on</h2>
-<div align="center">
+<div display="flex">
   <a href="www.apismx.com" target="_blank">ApisMX</a>
   <img src=https://ch0k0-shared-resoures.s3.amazonaws.com/icons/apismxlogo36px.png alt=apismx_logo width="2%"/> 
 </div>
