@@ -33,8 +33,10 @@ Here are some ideas to get you started:
 
 <h2>Projects I have worked on</h2>
 <a href="www.apismx.com" target="_blank">ApisMX</a>
+
 </br>
 <a href="www.buscarvan.com" target="_blank">BuscarVan</a>
+<img src=https://ch0k0-shared-resoures.s3.amazonaws.com/icons/apismxlogo36px.png alt=apismx_logo width="50" height="50"/> 
 </br>
 <a href="www.buscarvan.com" target="_blank">Impact Factor</a>
 
