@@ -27,6 +27,10 @@
   <img src=https://ch0k0-shared-resoures.s3.amazonaws.com/icons/buscarVanlogo.png alt=apismx_logo width="5%"/> 
 </div>
 </br>
+<div>
+  <a href="www.buscarvan.com" target="_blank">Carnes Oro</a>
+</div>
+</br>
 <a href="www.buscarvan.com" target="_blank">Impact Factor</a>
 
 
